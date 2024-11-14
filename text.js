@@ -15,7 +15,7 @@ export class Text {
         this. canvas.height = stageHeight;
 
         const myText = str;
-        const fontWidth = 600;
+        const fontWidth = 700;
         //const fontSize = 600;
         const fontSize = 600;
         const fontName = 'Gothic A1';
