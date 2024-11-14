@@ -63,7 +63,7 @@ export class Particle {
         ctx.fillStyle = color;
 
         const fontWidth =400;
-        const fontSize = 14;
+        const fontSize = 12;
         const fontName = 'Gothic A1';
         ctx.font = `${fontWidth} ${fontSize}px ${fontName}`;
         ctx.textBaseline = `middle`;
