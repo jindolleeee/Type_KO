@@ -66,7 +66,7 @@ export class Particle {
         const fontSize = 12;
         const fontName = 'Gothic A1';
         ctx.font = `${fontWidth} ${fontSize}px ${fontName}`;
-        ctx.textBaseline = `center`;
+        ctx.textBaseline = `CENTER`;
             const textPos = ctx.measureText(str);
         ctx.fillText(
             str,
